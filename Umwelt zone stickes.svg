@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg3473" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 482 150"
+	 style="enable-background:new 0 0 482 150;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#C1121C;}
+	.st1{fill:#FFFFFF;}
+	.st2{font-family:'TimesNewRomanPS-BoldMT';}
+	.st3{font-size:72px;}
+	.st4{fill:#F7BA0B;}
+	.st5{fill:#008754;}
+</style>
+<g>
+	<path id="path3505" class="st0" d="M147,75c0,39.8-32.2,72-72,72c-39.8,0-72-32.2-72-72C3,35.2,35.2,3,75,3
+		C114.8,3,147,35.2,147,75L147,75z"/>
+	<path id="path3507" d="M75,0C33.6,0,0,33.6,0,75s33.6,75,75,75s75-33.6,75-75S116.4,0,75,0z M75,3c39.8,0,72,32.2,72,72
+		c0,39.8-32.2,72-72,72c-39.8,0-72-32.2-72-72C3,35.2,35.2,3,75,3z"/>
+	<path id="path3509" class="st1" d="M20,80.7h110v35H20V80.7z"/>
+	<text transform="matrix(1 0 0 1 57 65.6406)" class="st2 st3">2</text>
+</g>
+<g>
+	<path id="path3499" class="st4" d="M313,75c0,39.8-32.2,72-72,72c-39.8,0-72-32.2-72-72c0-39.8,32.2-72,72-72
+		C280.8,3,313,35.2,313,75L313,75z"/>
+	<path id="path3501" d="M241,0c-41.4,0-75,33.6-75,75s33.6,75,75,75s75-33.6,75-75S282.4,0,241,0z M241,3c39.8,0,72,32.2,72,72
+		c0,39.8-32.2,72-72,72c-39.8,0-72-32.2-72-72C169,35.2,201.2,3,241,3L241,3z"/>
+	<path id="path3503" class="st1" d="M186,80.7h110v35H186V80.7z"/>
+	<text transform="matrix(1 0 0 1 223.0013 65.6406)" class="st2 st3">3</text>
+</g>
+<g>
+	<path id="path3493" class="st5" d="M479,75c0,39.8-32.2,72-72,72c-39.8,0-72-32.2-72-72c0-39.8,32.2-72,72-72
+		C446.8,3,479,35.2,479,75L479,75z"/>
+	<path id="path3495" d="M407,0c-41.4,0-75,33.6-75,75s33.6,75,75,75c41.4,0,75-33.6,75-75S448.4,0,407,0z M407,3
+		c39.8,0,72,32.2,72,72c0,39.8-32.2,72-72,72c-39.8,0-72-32.2-72-72C335,35.2,367.2,3,407,3z"/>
+	<path id="path3497" class="st1" d="M352,80.7h110v35H352V80.7z"/>
+	<text transform="matrix(1 0 0 1 388.9975 65.6406)" class="st2 st3">4</text>
+</g>
+</svg>

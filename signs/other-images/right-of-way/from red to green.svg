@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#DADADA;}
+	.st2{fill:#E30613;}
+	.st3{fill:url(#SVGID_2_);}
+	.st4{fill:#FFED00;}
+	.st5{fill:url(#SVGID_3_);}
+	.st6{fill:#3AAA35;}
+	.st7{font-family:'MyriadPro-Regular';}
+	.st8{font-size:20px;}
+</style>
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="4.2574" y1="150.1736" x2="88.2564" y2="150.1736">
+		<stop  offset="5.494510e-03" style="stop-color:#020203"/>
+		<stop  offset="0.5" style="stop-color:#1A1A1A"/>
+		<stop  offset="1" style="stop-color:#020203"/>
+	</linearGradient>
+	<path class="st0" d="M79.3,256.4h-66c-5,0-9-4-9-9V52.9c0-5,4-9,9-9h66c5,0,9,4,9,9v194.5C88.3,252.4,84.2,256.4,79.3,256.4
+		L79.3,256.4z"/>
+	<circle class="st1" cx="46.3" cy="216.4" r="26.8"/>
+	<circle class="st1" cx="46.3" cy="151.3" r="26.8"/>
+	<circle class="st2" cx="46.3" cy="86.1" r="26.8"/>
+</g>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="107.8472" y1="150.1736" x2="191.8462" y2="150.1736">
+	<stop  offset="5.494510e-03" style="stop-color:#020203"/>
+	<stop  offset="0.5" style="stop-color:#1A1A1A"/>
+	<stop  offset="1" style="stop-color:#020203"/>
+</linearGradient>
+<path class="st3" d="M182.8,256.4h-66c-5,0-9-4-9-9V52.9c0-5,4-9,9-9h66c5,0,9,4,9,9v194.5C191.8,252.4,187.8,256.4,182.8,256.4
+	L182.8,256.4z"/>
+<circle class="st1" cx="149.8" cy="216.4" r="26.8"/>
+<circle class="st4" cx="149.8" cy="151.3" r="26.8"/>
+<circle class="st2" cx="149.8" cy="86.1" r="26.8"/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="211.4369" y1="150.1736" x2="295.4359" y2="150.1736">
+	<stop  offset="5.494510e-03" style="stop-color:#020203"/>
+	<stop  offset="0.5" style="stop-color:#1A1A1A"/>
+	<stop  offset="1" style="stop-color:#020203"/>
+</linearGradient>
+<path class="st5" d="M286.4,256.4h-66c-5,0-9-4-9-9V52.9c0-5,4-9,9-9h66c5,0,9,4,9,9v194.5C295.4,252.4,291.4,256.4,286.4,256.4
+	L286.4,256.4z"/>
+<circle class="st6" cx="253.4" cy="216.4" r="26.8"/>
+<circle class="st1" cx="253.4" cy="151.3" r="26.8"/>
+<circle class="st1" cx="253.4" cy="86.1" r="26.8"/>
+<text transform="matrix(1 0 0 1 40.8716 279.4619)" class="st7 st8">1</text>
+<text transform="matrix(1 0 0 1 144.8462 279.4619)" class="st7 st8">2</text>
+<text transform="matrix(1 0 0 1 249.8207 279.4619)" class="st7 st8">3</text>
+</svg>
